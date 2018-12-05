@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Manage/AppShellSet.aspx" hash="fffffff8365686da" filehash="43807dfe54c3" flags="110000" assembly="App_Web_appshellset.aspx.c9e75124" type="ASP.manage_appshellset_aspx">
+    <filedeps>
+        <filedep name="/Manage/AppShellSet.aspx" />
+    </filedeps>
+</preserve>
